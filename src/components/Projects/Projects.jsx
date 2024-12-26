@@ -7,7 +7,7 @@ function Projects() {
       description: "MAKING AN HOME AUTOMATION SYSTEM USING ESP32 AND FLUTTER",
       image: switch1,
       technologies: ["Flutter", "ESP32", "MQTT"],
-      liveLink: "https://project1.com",
+      liveLink: "https://github.com/Vishnu8305/FLutter_Automition_1",
       githubLink: "https://github.com/Vishnu8305/FLutter_Automition_1"
     },
     // Add more projects here
