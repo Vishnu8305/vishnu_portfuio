@@ -1,14 +1,14 @@
 import './Projects.css'
-
+import switch1 from '../../assets/switch1.jpg'
 function Projects() {
   const projects = [
     {
       title: "Project 1",
-      description: "A brief description of your project",
-      image: "/project1.jpg",
-      technologies: ["React", "Node.js", "MongoDB"],
+      description: "MAKING AN HOME AUTOMATION SYSTEM USING ESP32 AND FLUTTER",
+      image: switch1,
+      technologies: ["Flutter", "ESP32", "MQTT"],
       liveLink: "https://project1.com",
-      githubLink: "https://github.com/yourusername/project1"
+      githubLink: "https://github.com/Vishnu8305/FLutter_Automition_1"
     },
     // Add more projects here
   ]

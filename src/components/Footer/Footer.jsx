@@ -55,10 +55,10 @@ function Footer() {
         <div className="footer-bottom">
           <p>&copy; 2024 - Designed & Built by Vishnu</p>
           <div className="social-links">
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/Vishnu8305" target="_blank" rel="noopener noreferrer">
               <i className="fab fa-github"></i>
             </a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/pvishnuvardhan" target="_blank" rel="noopener noreferrer">
               <i className="fab fa-linkedin"></i>
             </a>
             <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
