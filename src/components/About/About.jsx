@@ -28,7 +28,7 @@ function About() {
             <span className="quote-mark">{">"}</span> Transforming ideas into reality, 
             one circuit and line of code at a time
           </div>
-          <a href="/your-resume.pdf" className="btn primary" download>
+          <a href="../../public/Vishnu_CV.pdf" className="btn primary" download>
             Download Resume
           </a>
         </div>
