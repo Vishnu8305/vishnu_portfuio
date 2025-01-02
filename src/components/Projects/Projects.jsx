@@ -85,7 +85,7 @@ function Projects() {
       description: "Developing drivers for STM32 microcontrollers.",
       image: stm32,
       technologies: ["C", "Embedded Systems", "STM32","Datasheet Understanding","GPIO"],
-      githubLink: "https://github.com/your-repo",
+      githubLink: "https://github.com/Vishnu8305/GPIO__Driver_Testing-",
       motivation: "To develop reliable and efficient drivers for STM32 microcontrollers.",
       keyFeatures: [
         "C programming language",
@@ -101,7 +101,6 @@ function Projects() {
       description: "A smart dustbin that identifies and segregates dry and wet waste.",
       image: dustbin,
       technologies: ["IoT", "Sensors", "ESP32"],
-      githubLink: "https://github.com/your-repo",
       motivation: "To create an efficient waste management system that automatically segregates waste.",
       keyFeatures: [
         "Automatic waste segregation",
@@ -116,7 +115,6 @@ function Projects() {
       description: "A car controlled by hand gestures using sensors.",
       image: gesture,
       technologies: ["Arduino", "Sensors", "Wireless Communication"],
-      githubLink: "https://github.com/your-repo",
       motivation: "To explore innovative control methods using gesture recognition.",
       keyFeatures: [
         "Gesture-based control",
@@ -131,7 +129,6 @@ function Projects() {
       description: "Designing and fabricating custom PCBs for various projects.",
       image: pcb,
       technologies: ["PCB Design", "Soldering", "Circuit Design"],
-      githubLink: "https://github.com/your-repo",
       motivation: "To create custom PCBs for efficient and compact circuit designs.",
       keyFeatures: [
         "Custom PCB design",
