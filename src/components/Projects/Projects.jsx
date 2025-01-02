@@ -69,13 +69,14 @@ function Projects() {
       description: "MAKING AN HOME AUTOMATION SYSTEM USING ESP32 AND FLUTTER",
       image: home,
       technologies: ["Flutter", "ESP32", "MQTT", "Relay", "Azure", "High-link", "IoT","Custom PCB"],
-      githubLink: "https://github.com/Vishnu8305/FLutter_Automition_1",
+      githubLink: "https://github.com/Vishnu8305/Home_Automitio_Flutter_Full_1",
       motivation: "To create a seamless and intuitive smart home control system that allows users to manage their home devices remotely with ease.",
       keyFeatures: [
         "Real-time device control via mobile app",
         "MQTT protocol for efficient communication",
         "Support for multiple IoT devices",
-        "Intuitive user interface"
+        "Intuitive user interface",
+        "Developer can add more devices and make chnages such as change the device name, type, mqtt broker and more",
       ],
       challengesAndSolutions: "Implementing reliable communication between ESP32 and mobile app was challenging. Solved by using MQTT protocol which provides lightweight and efficient messaging.",
       learningOutcomes: "Gained deep insights into IoT communication protocols, mobile app development with Flutter, and embedded systems programming."
